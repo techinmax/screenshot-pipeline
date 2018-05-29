@@ -20,7 +20,9 @@ Instructions for other developers on how to install and run your code on their l
 [MIT](https://choosealicense.com/licenses/mit/)
 Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
 
-URL: [nifty-booth-0bf80f.netlify.app](https://nifty-booth-0bf80f.netlify.app) 
+
+
+URL: [snapchat.com/](https://www.snapchat.com/)
  
  
  ![alt text](https://raw.githubusercontent.com/raymondedlee/screenshot-pipeline/main/screenshot.png?raw=true)
